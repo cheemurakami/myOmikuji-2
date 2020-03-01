@@ -1,0 +1,20 @@
+#btn{
+    width: 200px;
+    height: 200px;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 20px;
+    margin: auto;
+    background: #b3d9ff;
+    vertical-align: middle;
+    line-height: 200px;
+    border-radius: 50%;
+    color: white;
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    cursor: pointer;
+    user-select: none;
+    filter: drop-shadow(10px 10px 10px #99ccff);
+}
+#btn.hover{
+    opacity: 0.9;
+}
